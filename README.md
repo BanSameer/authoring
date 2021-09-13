@@ -11,7 +11,9 @@ Exercise2
 ## Images
 - [ ] Images
 
-## 
+## Emojis
 - [ ] Emojis
-- [ ] Tables
+
+## Tables
+- [checked] Tables
 
