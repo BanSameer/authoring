@@ -38,7 +38,7 @@ Exercise2
 [This is the Internal link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
 
 ## <a name="Images">Images</a> 
-[This is an Image from Image folder](https://github.com/BanSameer/authoring/blob/main/Picturesfolderex2/pexels-ben-mack-5326942.jpg)
+![This is an Image from Image folder](https://github.com/BanSameer/authoring/blob/main/Picturesfolderex2/pexels-ben-mack-5326942.jpg)
 
 ## <a name="Emojis">Emojis</a> 
 :joy: 🤖
