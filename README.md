@@ -15,5 +15,6 @@ Exercise2
 - [ ] Emojis
 
 ## Tables
-- [checked] Tables
+- [ ] Tables
+
 
