@@ -1,21 +1,25 @@
 # authoring
 Exercise2
 # Github Flavoured Markdown
-- [External Link](# External_Link)
- - [ ] External Link
+
+ - [ ] [External Link](#External_Link)
+ 
 
 
 ## Internal Link
-- [ ] Internal Link
+- [ ] [Internal Link](#Internal_Link)
 
 ## Images
-- [ ] Images
+- [ ] [Images](Images)
 
 ## Emojis
-- [ ] Emojis
+- [ ] [Emojis](Emojis)
 
 ## Tables
-- [ ] Tables
+- [ ] [Tables](Tables)
+
+
+
 
 
 ## <a name="External_Link">External link</a> 
@@ -38,6 +42,7 @@ Names | Classes |
 :----:|:------:
 Sameer| Male |
 My Friend | Female|
+Hallo | Dear 
  
 
 
