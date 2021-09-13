@@ -19,7 +19,7 @@ Exercise2
 
 
 ## <a name="External_Link">External link</a> 
-[I'm an inline-style link and I was copied from the manual](https://github.com/)
+[External link for GitHub Done Remotely](https://github.com/)
 
 ## Internal link
 [This is the link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
@@ -34,11 +34,11 @@ Exercise2
 
 ## Tables
 
-| numbers | title1 | title2 |
-|----------|:-------------:|:------:|
-| 3 | potatoes | nose |
-| 6 | beans |ring |
-| 5 | shoes |hand | 
+Names | Classes |
+:----:|:------:
+Sameer| Male |
+My Friend | Female|
+ 
 
 
 
