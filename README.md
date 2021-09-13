@@ -2,31 +2,31 @@
 Exercise2
 # Github Flavoured Markdown
 ## External Link
- - [ ] [External Link](#External_Link)
+ - [x] [External Link](#External_Link)
 
 
 
  
 ## Internal Link
-- [ ] [Internal Link](#Internal_Link)
+- [x] [Internal Link](#Internal_Link)
 
 
 
 ## Images
-- [ ] [Images](Images)
+- [x] [Images](Images)
 
 
 
 
 ## Emojis
-- [ ] [Emojis](Emojis)
+- [x] [Emojis](Emojis)
 
 
 
 
 
 ## Tables
-- [ ] [Tables](Tables)
+- [x] [Tables](Tables)
 
 
 
