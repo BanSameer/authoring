@@ -22,10 +22,10 @@ Exercise2
 [I'm an inline-style link and I was copied from the manual](https://github.com/)
 
 ## Internal link
-[a link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
+[This is the link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
 
 ## Images
-![random text]()
+![This is the link to Image in Image folder](https://github.com/BanSameer/authoring/blob/main/Picturesfolderex2/pexels-ben-mack-5326942.jpg)
 
 ## Emojis
 :joy: 🤖
