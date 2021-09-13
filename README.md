@@ -32,13 +32,13 @@ Exercise2
 
 
 ## <a name="External_Link">External link</a> 
-1[External link for GitHub Done Remotely](https://help.github.com/)
+[External link for GitHub Done Remotely](https://help.github.com/)
 
 ## <a name="Internal_Link">Internal link</a> 
-![This is the Internal link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
+[This is the Internal link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
 
 ## <a name="Images">Images</a> 
-![This is an Image from Image folder](https://github.com/BanSameer/authoring/blob/main/Picturesfolderex2/pexels-ben-mack-5326942.jpg)
+[This is an Image from Image folder](https://github.com/BanSameer/authoring/blob/main/Picturesfolderex2/pexels-ben-mack-5326942.jpg)
 
 ## <a name="Emojis">Emojis</a> 
 :joy: 🤖
