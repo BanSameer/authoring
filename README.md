@@ -3,18 +3,23 @@ Exercise2
 # Github Flavoured Markdown
 ## External Link
  - [ ] [External Link](#External_Link)
+## <a name="External_Link">External link</a> 
  
 ## Internal Link
 - [ ] [Internal Link](#Internal_Link)
+## <a name="Internal_Link">Internal link</a> 
 
 ## Images
 - [ ] [Images](Images)
+## <a name="Images">Images</a> 
 
 ## Emojis
 - [ ] [Emojis](Emojis)
+## <a name="Emojis">Emojis</a> 
 
 ## Tables
 - [ ] [Tables](Tables)
+## <a name="Tables">Tables</a>
 
 
 
@@ -39,11 +44,11 @@ My Friend | Female|
 Hallo | Dear 
 
 
- ## <a name="External_Link">External link</a> 
- ## <a name="Internal_Link">Internal link</a> 
- ## <a name="Images">Images</a> 
- ## <a name="Emojis">Emojis</a> 
- ## <a name="Tables">Tables</a> 
+ 
+ 
+ 
+ 
+  
 
 
 
