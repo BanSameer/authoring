@@ -22,7 +22,7 @@ Exercise2
 [I'm an inline-style link and I was copied from the manual](https://github.com/)
 
 ## Internal link
-[a link to images folder](https://
+[a link to images folder](https://github.com/BanSameer/authoring/tree/main/Picturesfolderex2)
 
 ## Images
 ![random text]()
