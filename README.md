@@ -4,25 +4,17 @@ Exercise2
 ## External Link
  - [x] [External Link](#External_Link)
 
-
-
  
 ## Internal Link
 - [x] [Internal Link](#Internal_Link)
-
 
 
 ## Images
 - [x] [Images](Images)
 
 
-
-
 ## Emojis
 - [x] [Emojis](Emojis)
-
-
-
 
 
 ## Tables
