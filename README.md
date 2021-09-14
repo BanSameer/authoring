@@ -45,6 +45,16 @@ My Friend | Female|
 Hallo | Dear 
 
 
+[Go to external link](https://github.com/BanSameer/authoring/blob/main/README.md#external-link)
+
+[Go to internal link](https://github.com/BanSameer/authoring/blob/main/README.md#internal-link)
+
+[Go to images](https://github.com/BanSameer/authoring/blob/main/README.md#images)
+
+[Go to Emojis](https://github.com/BanSameer/authoring/blob/main/README.md#emojis)
+
+[Go to table](https://github.com/BanSameer/authoring/blob/main/README.md#tables)
+
  
  
  
